@@ -1,0 +1,4 @@
+
+#define	 TIMER_POINT_COLOUR					1002
+
+#define  WM_USER_POINT_COLOUR		WM_USER+1003
